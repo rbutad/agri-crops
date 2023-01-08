@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297610823532",
+    "firebase_url": "https://agricrops-76be1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agricrops-76be1",
+    "storage_bucket": "agricrops-76be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297610823532:android:327f96d6ba5478dcb3d549",
+        "android_client_info": {
+          "package_name": "com.example.agricrops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297610823532-ifqam17hm1gaee694asl70c6g1a6o7rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0iFHJM8I-bUrc5AVYDJtIFW6tsW8bm5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297610823532-ifqam17hm1gaee694asl70c6g1a6o7rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
